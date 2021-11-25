@@ -10,6 +10,7 @@ public class Entertainment extends javax.swing.JFrame {
         jScrollPane2.getViewport().setOpaque(false);
         jTextArea2.setOpaque(false);
         jScrollPane2.setOpaque(false);
+        this.setLocationRelativeTo(null);
     }
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents

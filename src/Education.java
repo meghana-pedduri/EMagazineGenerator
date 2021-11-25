@@ -12,6 +12,7 @@ public class Education extends javax.swing.JFrame {
                  jScrollPane2.getViewport().setOpaque(false);
                  jTextArea2.setOpaque(false);
                  jScrollPane2.setOpaque(false);
+                 this.setLocationRelativeTo(null);
     }
  
     Template k = new Template();

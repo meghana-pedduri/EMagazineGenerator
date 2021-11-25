@@ -27,7 +27,7 @@ public class E_magazine extends javax.swing.JFrame {
                            jButton3.setOpaque(false);
                                     jButton4.setOpaque(false);
                                          //    jButton1.getViewport().setOpaque(false);
-
+            this.setLocationRelativeTo(null);
 
 
     }
